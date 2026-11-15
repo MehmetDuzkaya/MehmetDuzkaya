@@ -34,6 +34,10 @@ Building practical software with a focus on clean interfaces, reliable backends,
 
 <img src="https://skillicons.dev/icons?i=php,java,python,fastapi,postgresql,firebase" alt="PHP, Java, Python, FastAPI, PostgreSQL, and Firebase" />
 
+### Desktop Development
+
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+
 ### Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,git" alt="Docker and Git" />
@@ -58,6 +62,28 @@ A native macOS utility for managing independent docks across multiple monitors, 
 - Adds applications through drag and drop or the application picker
 - Provides status-bar controls for creating, editing, toggling, and removing docks
 - Persists dock configurations and applications locally in a JSON file
+
+### [BusKeyMapper](https://github.com/MehmetDuzkaya/KeyMapper)
+
+A lightweight macOS menu bar application for mapping keyboard inputs and moving the cursor to keyboard-defined positions.
+
+- Keyboard input remapping
+- Drag-and-drop positioning for mapped letters
+- On-screen overlay for visual feedback
+- Menu bar integration with no Dock icon
+- Supports macOS 13 and later
+
+### [Saat](https://github.com/MehmetDuzkaya/saat)
+
+A simple clock website designed to display the current time through a focused, minimal interface.
+
+### [Konuk Kuaför Website](https://github.com/MehmetDuzkaya/konukkuafor)
+
+A website project created for a hair salon business, supported by practical experience with online advertising and Google Ads campaigns.
+
+### [Personal Website](https://github.com/MehmetDuzkaya/mehmetduzkaya)
+
+My personal website project and a central place for presenting my work, background, and professional profile.
 
 ### Resmî Gazete AI
 
@@ -84,6 +110,12 @@ Backend Development   →  APIs, authentication, authorization, and data
 AI Integration        →  Practical automation and document-focused workflows
 Software Development  →  Maintainable solutions for real-world problems
 ```
+
+## Additional Experience
+
+- Website development for a local business
+- Google Ads campaign and advertising experience
+- Building macOS utilities alongside web and backend projects
 
 ## Let's Connect
 
